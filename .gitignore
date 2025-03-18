@@ -1,3 +1,4 @@
-./env/
-./ibtracs.ACTIVE.list.v04r01.csv
-./.ipynb_checkpoints
+.env/
+ibtracs.ACTIVE.list.v04r01.csv
+.ipynb_checkpoints
+__pycache__
