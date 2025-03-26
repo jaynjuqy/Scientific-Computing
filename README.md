@@ -25,3 +25,10 @@ The objective was to learn how to load data from a file, inspect it, manipulate 
 show a visualization of this data in such a way that is telling to the one reading it...Pandas and MatPlotLib were the
 main libraries used for this exercise. They offer tools and functions for doing the necessary operations like reading from
 files, manipulating these data and actually allowing for its visualization.
+
+## Assignment Four: Python API
+Notebook in the python_api folder in the source tree
+
+Using the urllib.request, json and matplotlib, we fetch data from external apis, convert the data into json format and 
+visualize it using matplotlib diagrams and charts. Here we utilize a football api and visualize the data using tables, 
+bar graphs and pie charts.
